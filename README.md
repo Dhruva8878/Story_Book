@@ -4,15 +4,9 @@ Presenting StoryBook, a unique storytelling app. Dive into a community of creati
 
 ---
 
-### Netlify Link
-
-https://unique-story-book.netlify.app/
-
----
-
 ### Team Member
 
-- **[Viraj Gupta](https://github.com/rkvirajgupta/)**
+- **[Dhruv Gupta](https://github.com/Dhruva8878/)**
 
 ---
 
