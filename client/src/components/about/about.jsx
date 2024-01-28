@@ -1,5 +1,5 @@
 import "./about.css";
-import image from "../../assets/image.jpg";
+import image from "../../assets/image.png";
 
 export const About = () => {
   return (
@@ -53,8 +53,8 @@ export const About = () => {
         </div>
 
         <div className="div2subdiv2">
-          <img src={image} alt="Viraj Gupta" />
-          <h5>Viraj Gupta</h5>
+          <img src={image} alt="Dhruv Gupta" />
+          <h5>Dhruv Gupta</h5>
           <p>Founder & CEO</p>
         </div>
       </div>
